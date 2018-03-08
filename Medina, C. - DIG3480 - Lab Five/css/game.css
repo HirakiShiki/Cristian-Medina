@@ -1,0 +1,11 @@
+.background    { background: gray;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.acid          { background: rgb(57, 255, 20)   }
+.wall          { background: purple;  }
+.floater       { background: white;   }
+
+.game {
+  position: relative;
+}
